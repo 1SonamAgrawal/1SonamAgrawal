@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonam Agrawal</h1>
-<h3 align="center">CSE Graduate | Front-End Developer | Focused on building modern, responsive web applications and growing as a developer</h3>
+<h3 align="center">Front-End Developer | CSE Graduate | Passionate about building responsive and user-friendly web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj&pid=Api&P=0&h=180">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1sonamagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="1sonamagrawal" /> </p>
 
